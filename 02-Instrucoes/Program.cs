@@ -110,7 +110,7 @@ namespace Instrucoes
             }
         }
 
-        static void InstrucaoReturn(string[] args)
+        static void InstrucaoReturn()
         {
             int Somar(int a, int b)
             {
